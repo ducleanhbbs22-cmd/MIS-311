@@ -1,3 +1,4 @@
+
 # MIS-311
 Introduction to Business Analytics
 
@@ -14,6 +15,7 @@ This project focuses on cleaning, preparing, and analyzing an Electric Vehicle (
  * Insight 1: To understand market dynamics and identify which manufacturer truly dominates the landscape, this analysis examines the percentage share of each automotive brand relative to the entire dataset. To highlight the most significant differences and eliminate noise, the data is filtered to focus exclusively on the top 5 brands with the largest market share.
   
    <img width="490" height="280" alt="EV registration distribution " src="https://github.com/user-attachments/assets/5699da6c-9baa-4bfd-b90b-56f4ceb5393c" />
+<img width="348" height="135" alt="11" src="https://github.com/user-attachments/assets/06e26617-bfa4-4d43-8ffa-1ea1d9b85fd6" />
 
  * Insight 2  
 
