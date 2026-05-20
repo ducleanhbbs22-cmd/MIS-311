@@ -33,7 +33,7 @@ Make & Model: A combined column containing both the vehicle Manufacturer (Make) 
 
 Handling Duplicates via VIN Alignment: Since the Vehicle Identification Number (VIN) must be a unique identifier for each vehicle, a deduplication process was performed. All duplicate rows based on the VIN column were successfully removed to prevent data inflation.
 
-Text Standardization (TRIM & PROPER): * Applied the TRIM function across the dataset to eliminate any leading, trailing, or inconsistent webpage/input whitespaces.
+Text Standardization (TRIM & PROPER):  Applied the TRIM function across the dataset to eliminate any leading, trailing, or inconsistent webpage/input whitespaces.
 
 Applied the PROPER function specifically to the Make and Model columns to standardize capitalization (e.g., converting inconsistent text into clean title case), ensuring seamless grouping and filtering.
 
@@ -61,6 +61,13 @@ Find a different path: New or smaller brands (like Hyundai, BYD, or startups) ne
 
   
 
+ * Insight 2
+   
+   We used a Pivot Table to count the number of vehicles for each brand across different years. To clearly highlight the trend and changes over time, we grouped the years into 3-year intervals (by = 3)
 
- * Insight 2  
+   <img width="515" height="176" alt="12" src="https://github.com/user-attachments/assets/6c9b1f26-1f59-483e-8eb1-5fd3c0e8e094" />
+   
+
+   
+
 
