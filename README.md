@@ -66,6 +66,12 @@ Find a different path: New or smaller brands (like Hyundai, BYD, or startups) ne
    We used a Pivot Table to count the number of vehicles for each brand across different years. To clearly highlight the trend and changes over time, we grouped the years into 3-year intervals (by = 3)
 
    <img width="515" height="176" alt="12" src="https://github.com/user-attachments/assets/6c9b1f26-1f59-483e-8eb1-5fd3c0e8e094" />
+
+   To effectively monitor changing consumer trends, a line chart with markers is utilized. These markers distinctly indicate peak periods and provide precise figures for detailed analysis. Examining these specific clusters enables us to determine whether external or internal forces are impacting behavior, ultimately helping us derive actionable insights
+
+
+   <img width="629" height="375" alt="model years trend " src="https://github.com/user-attachments/assets/c0a1e311-a0b0-4046-b0d5-108146c43b0c" />
+
    
 
    
